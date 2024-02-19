@@ -22,4 +22,15 @@ contact me. I am always open to collaboration and networking.
 
 
 ### Proficient with
-src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/fr/npm.png" alt="npm" />
+
+<img width="40px" height="40px"  src="#" alt="figma" />
+<img width="40px" height="40px"  src="#" alt="vim" />
+<img width="40px" height="40px"  src="#" alt="studio code" />
+<img width="40px" height="40px"  src="#" alt="pycharm" />
+<img width="40px" height="40px"  src="#" alt="webstorm" />
+<img width="40px" height="40px"  src="#" alt="after effects" />
+<img width="40px" height="40px"  src="#" alt="premiere pro" />
+<img width="40px" height="40px"  src="#" alt="illustrator" />
+<img width="40px" height="40px"  src="#" alt="indesign" />
+<img width="40px" height="40px"  src="#" alt="photoshop" />
+<img width="40px" height="40px"  src="#" alt="lunacy" />
