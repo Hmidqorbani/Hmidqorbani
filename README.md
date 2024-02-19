@@ -20,6 +20,7 @@ contact me. I am always open to collaboration and networking.
 ---
 ### Programming & Markdown, Styling Languages
 
+<!-- <div>
 <img width="50px" height="50px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/lang/javascript.png" alt="javascript" />
 <img width="50px" height="50px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/fr/html.png" alt="html" />
 <img width="50px" height="50px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/lang/css.png" alt="css" />
@@ -27,3 +28,8 @@ contact me. I am always open to collaboration and networking.
 <img width="50px" height="50px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/lang/typescript.png" alt="bootstrap" />
 <img width="50px" height="50px"  src="img/fr/bootstrap.png" alt="bootstrap" />
 <img width="50px" height="50px"  src="img/fr/bootstrap.png" alt="bootstrap" />
+</div> -->
+
+
+
+![javascript](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/lang/javascript.png)
