@@ -10,3 +10,18 @@ I also like to share my experiences and knowledge with others so that we can ben
 🔧 Currently I am looking for opportunities to collaborate on new projects as well as learn and improve my skills.
 If you are interested in cooperation or consulting in similar fields,
 contact me. I am always open to collaboration and networking.
+
+
+
+
+
+### Programming & Markdown, Styling Languages
+
+<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
+<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
+
+
+## ospjdojsda
+
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
