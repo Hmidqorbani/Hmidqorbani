@@ -17,11 +17,4 @@ contact me. I am always open to collaboration and networking.
 
 ### Programming & Markdown, Styling Languages
 
-<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
-
-
-## ospjdojsda
-
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
-![image]({https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white})
+<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/lang/javascript.png" alt="javascript" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/lang/css.png" alt="css" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/fr/html.png" alt="html" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/fr/bootstrap.png" alt="bootstrap" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/fr/sass.png" alt="sass" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/fr/react_native.png" alt="react" />
