@@ -31,4 +31,4 @@ contact me. I am always open to collaboration and networking. -->
 <br>
 
 
-![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_1.png)
+<!-- ![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_1.png) -->
