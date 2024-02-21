@@ -1,7 +1,5 @@
 ![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_2.png)
 
-<br>
-<br>
 
 <!-- 💙
 I am a programmer and software developer. I love programming and solving complex problems,
