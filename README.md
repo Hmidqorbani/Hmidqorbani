@@ -36,9 +36,9 @@ contact me. I am always open to collaboration and networking. -->
 <img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt="figma" />
 
 
-![]{<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt="figma" />}
+<a><img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt="figma" /><a/>
 <br>
 <br>
 
 
-<!-- ![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_1.png) -->
+![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_1.png)
