@@ -36,7 +36,11 @@ contact me. I am always open to collaboration and networking. -->
 <img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt="figma" />
 
 
+<<<<<<< HEAD
 <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificatecisco/CCENT.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt=""></a>
+=======
+<a href="http://google.com"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt=""></a>
+>>>>>>> 7ef4bde044202f4c5a1d010f265c1cced11108a7
 
 <br>
 <br>
