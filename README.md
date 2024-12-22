@@ -25,9 +25,18 @@ contact me. I am always open to collaboration and networking. -->
 
 ## certificate
 
-<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate" alt="figma" />
+<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccent.png" alt="figma" />
+
+<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccnp.png" alt="figma" />
+
+<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccna.png" alt="figma" />
 
 
+
+<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt="figma" />
+
+
+[]{<img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt="figma" />}
 <br>
 <br>
 
