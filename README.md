@@ -21,11 +21,30 @@ contact me. I am always open to collaboration and networking. -->
 ### Proficient with
 
 <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/figma.png" alt="figma" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/vim.ico" alt="vim" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/studio%20code.png" alt="studio code" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/pycharm.png" alt="pycharm" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/webstorm.png" alt="webstorm" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/after%20effects.png" alt="after effects" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/premiere%20pro.png" alt="premiere pro" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/illustrator.png" alt="illustrator" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/indesign.png" alt="indesign" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/photoshop.png" alt="photoshop" /> <img width="40px" height="40px"  src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/Proficient%20with/lunacy.png" alt="lunacy" /> -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## certificate
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -34,10 +53,7 @@ contact me. I am always open to collaboration and networking. -->
 <br>
 <br>
 
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/bug%20hunting.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt=""></a>
-
-
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/owasp.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap.png" alt=""></a>
+<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/bug%20hunting.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt=""></a> <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/owasp.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap.png" alt=""></a>
 
 
 
