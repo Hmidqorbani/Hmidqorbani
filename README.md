@@ -25,7 +25,7 @@ contact me. I am always open to collaboration and networking. -->
 
 ## certificate
 
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificatecisco/CCENT.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt=""></a>
+<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCENT.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt=""></a>
 
 <br>
 <br>
