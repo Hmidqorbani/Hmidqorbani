@@ -27,12 +27,7 @@ contact me. I am always open to collaboration and networking. -->
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 ## certificate 🏆
