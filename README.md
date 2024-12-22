@@ -29,13 +29,7 @@ contact me. I am always open to collaboration and networking. -->
 
 
 
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCENT.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccent.png" alt=""></a>
-
-
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCNA.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccna.png" alt=""></a>
-
-
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCNP.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccnp.png" alt=""></a>
+<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCENT.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccent.png" alt=""></a> <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCNA.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccna.png" alt=""></a> <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCNP.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccnp.png" alt=""></a>
 
 <br>
 <br>
