@@ -47,6 +47,6 @@ contact me. I am always open to collaboration and networking. -->
 <br>
 <br>
 
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/network/network.png"><img src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/NetworkPlus_Logo_Certified_CE-hamid_Qorbani.png" alt=""></a>
+<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/Network/Network.png"><img style="width: 300px; width: 300px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/NetworkPlus_Logo_Certified_CE-hamid_Qorbani.png" alt=""></a>
 
 <!-- ![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_1.png) -->
