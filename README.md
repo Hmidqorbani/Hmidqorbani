@@ -38,7 +38,6 @@ contact me. I am always open to collaboration and networking. -->
 
 <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCENT.png"><img style="width: 150px; width: 100px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccent.png" alt=""></a> <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCNA.png"><img style="width: 150px; width: 100px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccna.png" alt=""></a> <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/certificate%20cisco/CCNP.png"><img style="width: 150px; width: 100px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/ccnp.png" alt=""></a>
 
-<br>
 <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/bug%20hunting.png"><img style="width: 150px; width: 100px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/bug.png" alt=""></a> <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/owasp.png"><img style="width: 150px; width: 100px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap.png" alt=""></a>
 
 <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/Network/Network.png"><img style="width: 100px; width: 100px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/NetworkPlus_Logo_Certified_CE-hamid_Qorbani.png" alt=""></a>
