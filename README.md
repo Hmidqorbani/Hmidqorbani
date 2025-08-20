@@ -51,7 +51,7 @@ contact me. I am always open to collaboration and networking. -->
 <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/jiujitsu hunters.png"><img style="width: 60px; width: 60px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/Jiujitsu Hunters.png" alt=""></a>
 <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/narutow hunters.png"><img style="width: 60px; width: 60px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/Narutow Hunters.png" alt=""></a>
 <a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/owsap/OWASP Participation.png"><img style="width: 60px; width: 60px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/OWASP Participation.png" alt=""></a>
-<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/Network/Network.png"><img style="width: 80px; width: 80px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/NetworkPlus_Logo_Certified_CE-hamid_Qorbani.png" alt=""></a>
+<a href="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/Network/Network.png"><img style="width: 70px; width: 70px;" src="https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/certificate/NetworkPlus_Logo_Certified_CE-hamid_Qorbani.png" alt=""></a>
 
 
 
