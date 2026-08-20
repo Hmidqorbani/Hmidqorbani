@@ -1,3 +1,4 @@
+vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&security=tls&sni=wsru1.wba-pn.ru&fp=chrome&type=ws&path=/&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20%7C%20@WhiteDNS%20%7C%20RU9%7C2.4MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQXhoK3Y5cTBFTk8wS3pBM3U1M1I1VEt1cHA0a2tFbkQ0YTRqMk5ybk0wPQ==@65.109.218.135:8080#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland
