@@ -35,7 +35,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 OBSi Shop (
 ss://YWVzLTI1Ni1nY206a1JLWkUzWmhFQ3dhd3kxTg==@94.72.127.55:80#🇺🇸 OBSi Shop (25.36)
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦 OBSi Shop (12.63)
 ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:443#🇺🇸 OBSi Shop (7.31)
-vless://4b2a13fb-850d-4966-88cb-04669de5cb3e@amini.daltoonserver.ir:330?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=chrome&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&sid=33decb55cc&spx=/cgO0rpIJXP5Zf9J#🇩🇪 OBSi Shop (24.15)
 vless://b91abe1a-80ca-417b-998b-2b542661c16f@fin.feywebsite.ir:8898?encryption=none&type=raw&security=reality&sni=play.googleapis.com&fp=chrome&pbk=y2ciDMmaLyu1U7wEG7Wi9buO91wWHnRtWfPLGjSZHC8&sid=6633e065744286&spx=/187a1642823d394#🇫🇮 OBSi Shop (12.07)
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#🇫🇷 OBSi Shop (26.00)
 ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ==@154.12.242.150:443#🇺🇸 OBSi Shop (28.48)
