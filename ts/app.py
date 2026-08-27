@@ -105,8 +105,8 @@ def extract_host_port(line):
 
 # ----- تابع اصلی -----
 def main():
-    input_file = 'configs.txt'
-    output_file = 'cleaned_configs.txt'
+    input_file = 'con.txt'
+    output_file = 'cln.txt'
 
     try:
         with open(input_file, 'r', encoding='utf-8') as f:
