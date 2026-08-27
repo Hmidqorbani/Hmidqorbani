@@ -105,7 +105,7 @@ def extract_host_port(line):
 
 # ----- تابع اصلی -----
 def main():
-    input_file = 'con.txt'
+    input_file = 'conf.txt'
     output_file = 'cln.txt'
 
     try:
