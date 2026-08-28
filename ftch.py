@@ -171,6 +171,17 @@ def main():
         "https://raw.githubusercontent.com/paranoideveloper/CoreForge-Sub/main/subscription_base64.txt",
         "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/sub.txt",
         "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
+        # set 2
+        "https://github.com/barry-far/V2ray-Config/raw/refs/heads/main/Splitted-By-Protocol/ss.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt",
+        "https://raw.githubusercontent.com/luxxuria/harvester/main/top_600.txt",
+        "https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/whitelist.txt",
+        "https://github.com/LimeHi/LimeVPN/raw/refs/heads/main/whitelist.txt",
+        "https://github.com/LimeHi/LimeVPN/raw/refs/heads/main/blacklist.txt",
+        "https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt",
+        "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vless.txt",
+        "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt",
+        "https://raw.githubusercontent.com/Diversan313/apex-parser/main/alive_full.txt",
     ]
 
     print("🔄 در حال دریافت کانفیگ‌ها از مخزن‌ها...")
