@@ -143,4 +143,3 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 vless://090a3fa8-973f-4812-9b69-ed982082a933@147.189.129.155:2087?encryption=none&type=ws&path=/4ad49ed0a3d5&packetEncoding=xudp#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20@Raydikalx%20%7C%20C5DB06
 vless://56cba26b-efcb-40d0-838a-d66df2dd516f@188.253.27.22:443?encryption=none&security=tls&sni=sni.868001.xyz&fp=chrome&type=ws&host=sni.868001.xyz&path=/proxyip%3Dtw.william.us.ci?uuid%3D82bc2875-3fee-49d1-ab29-e108a7b1e5f9&packetEncoding=xudp#11.%20%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6%20Canada
