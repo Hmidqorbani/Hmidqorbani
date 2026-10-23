@@ -38,10 +38,6 @@ contact me. I am always open to collaboration and networking. -->
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hmidqorbani&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
 
 ## certificate Me 🏆
 
