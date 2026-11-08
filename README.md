@@ -56,4 +56,11 @@ contact me. I am always open to collaboration and networking. -->
 <br>
 <br>
 
+
+
+
+
+![Hmidqorbani](https://mark.sylphx.com/api/top-langs.svg?username=Hmidqorbani\&theme=nord\&hide_border=true)
+![](https://github.com/Hmidqorbani/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+
 <!-- ![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_1.png) -->
