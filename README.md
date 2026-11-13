@@ -38,5 +38,5 @@
 
 
 <!-- ![GitHub dashboard](https://github-readme-insight-terminal-asci.vercel.app/svg/dashboard?user=Hmidqorbani&theme=mac&scale=0.7) -->
-<!-- ![GitHub top languages](https://github-readme-insight-terminal-asci.vercel.app/svg/top-lang?user=Hmidqorbani&theme=mac&top=10) -->
+![GitHub top languages](https://github-readme-insight-terminal-asci.vercel.app/svg/top-lang?user=Hmidqorbani&theme=mac&top=10)
 <!-- ![](https://github.com/Hmidqorbani/Hmidqorbani/blob/main/img/header_1.png) -->
